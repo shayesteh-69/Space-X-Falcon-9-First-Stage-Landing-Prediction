@@ -9,3 +9,5 @@ web Scrapping from Wikipedia
 Perform exploratory data analysis (EDA) using visualizaion
 Perform predictive analysis using classification method:
 LR,KNN,SVM,DT models have been builed and evaluated for the best classifier
+# Results
+The SVM,KNN, and LR models are the best in the term of prediction accuracy for this dataset.
